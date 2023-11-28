@@ -1,4 +1,0 @@
-https://realpython.com/generative-adversarial-networks/
-https://www.run.ai/guides/deep-learning-for-computer-vision/pytorch-gan
-https://medium.com/dida-machine-learning/data-augmentation-with-gans-for-defect-detection-8318fab1a514
-https://www.baeldung.com/cs/ml-gan-data-augmentation
